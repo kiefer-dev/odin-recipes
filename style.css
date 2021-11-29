@@ -1,0 +1,24 @@
+h1 {
+    color: rgb(58, 64, 145);
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h3 {
+    color: rgb(116, 116, 116);
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+.center {
+    text-align: center;
+}
